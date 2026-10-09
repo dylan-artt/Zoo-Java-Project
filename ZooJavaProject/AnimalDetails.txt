@@ -1,0 +1,4 @@
+Shark,Sharky,10,Blue,100.0,saltwater
+Bird,Jim,5,Brown,10.0,20.0
+Bird,John,8,Blue,15.0,25.0
+Dog,Rex,3,Black,20.0,Lab
